@@ -12,7 +12,7 @@ This project is a deep learning-based solution for detecting lung diseases, incl
   - OpenCV (for image preprocessing)
   - NumPy
   - Matplotlib (for data visualization)
-    Results
+##Results
 85% Accuracy: Achieved high accuracy in distinguishing between COVID-19, pneumonia, and normal lungs.
 Reduced Diagnostic Time: Helped healthcare professionals reduce diagnostic time by automating lung disease detection.
 Future Work
